@@ -1,6 +1,6 @@
 {
   "name": "maybe-combine-errors",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Combine 0 or more errors into one",
   "license": "MIT",
   "author": "Vincent Weevers",
